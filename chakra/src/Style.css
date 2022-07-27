@@ -1,0 +1,92 @@
+.pTag{
+    font-size: 50px;
+    font-weight: 900;
+    color: black;
+    line-height: 56px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.pTag-2{
+    margin-left: 80px;
+    font-size: 18px; 
+    color: black;
+   
+}
+.pTag-3{
+    margin-left: 80px;
+    font-size: 18px; 
+    color: black;
+}
+
+.image1{
+    width: 2800px;
+    padding-right: 80px;
+    padding-top: 90px;
+
+}
+.buttons{
+    padding-top: 12px;
+    padding-left: 100px;
+}
+.web1{
+    margin-left: 400px;
+    margin-top: 50px;
+    position:absolute;
+    width: 300px;
+    
+}
+.web2{
+    position: absolute;
+    width: 332px;
+    height: 187px;
+    margin-left: 200px;
+    margin-top: 120px;
+}
+.web4{
+position: absolute;
+width: 100px;
+height: 201px;
+margin-left: 500px;
+margin-top: 270px;
+}
+.web5{
+    position: absolute;
+    width: 100px;
+    height: 201px;
+    margin-left: 598px;
+    margin-top: 270px; 
+}
+ .image2{
+    width: 2000px;
+    padding-top: 30px;
+    padding-right: 40px;
+
+}
+
+.pTag-42{
+    font-size: 50px;
+    font-weight: 900;
+    color: black;
+    line-height: 56px;
+    margin-left: 80px;
+    margin-top: 100px;
+} 
+.footer{
+background-color:#1C7A5E;
+}
+
+h3{
+    margin-left: 130px;
+    margin-top: 8px;
+    color: white;
+
+}
+.boxImage{
+    background-size: 100vw;
+    background-color: #1C7A5E;
+}
+.pic{
+    border: 2px solid red;
+    background-size:100vw;
+}
+
